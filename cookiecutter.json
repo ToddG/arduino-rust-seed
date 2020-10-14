@@ -1,0 +1,10 @@
+{
+    "full_name": "your_full_name",
+    "email": "your_email_address",
+    "project_name": "project-name",
+    "repo_name": "repo_name",
+    "project_short_description": "project_short_description",
+    "release_date": "release_date",
+    "year": "release_year",
+    "version": "0.0.1"
+}
